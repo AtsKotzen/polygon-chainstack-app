@@ -2,6 +2,7 @@
 ### What this piece of code do:
 - Connect to a Chainstack node endpoint
 - Get the latest block number on Polygon mainnet
+- Get data from block
 - Shows the ballance of a given address
 
 Try the demo:
@@ -16,5 +17,5 @@ Try the demo:
 
 
 ### Dev Stack
-Node 16.6.2
-npm 7.20.3
+Node 14.17.0
+npm 6.14.13
