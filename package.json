@@ -1,0 +1,16 @@
+{
+  "name": "polygon-chainstack-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r dotenv/config index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Athus Linhares Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "web3": "^1.7.3"
+  }
+}
